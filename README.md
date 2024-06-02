@@ -5,7 +5,7 @@ This project aims to classify images of muffins and chihuahuas using Convolution
 ## Project Overview
 
 The repository includes:
-- Data preprocessing and augmentation scripts.
+- Data preprocessing scripts.
 - Implementation of three CNN architectures: AlexNet, VGG16, and ResNet.
 - Training scripts using Stochastic Gradient Descent (SGD) optimizer with different learning rates.
 - Evaluation and comparison of models based on accuracy and other performance metrics.
